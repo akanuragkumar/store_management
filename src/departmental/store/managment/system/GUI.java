@@ -3,7 +3,7 @@ package departmental.store.managment.system;
 
 /**
  * these functions should be implemented to support graphical user interface
- * @author redet
+ * @author anurag
  */
 public abstract class GUI {
     
