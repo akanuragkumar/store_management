@@ -7,7 +7,7 @@ package departmental.store.managment.system;
 
 /**
  *
- * @author redet
+ * @author anurag
  */
 public enum userInterface {
     TERMINAL,GRAPHICAL
